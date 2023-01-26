@@ -3,7 +3,7 @@
 I am an android developer :iphone:
 
 - :computer: Sometimes I write in Java or C++ 
-- :man_student: I’m currently learning
+- :man_student: I’m currently learning: Kotln
 - :nerd_face: Studied programming at the university
 - :mailbox:How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-red?style=flat&color=white&logo=telegram&logoColor=black)](https://t.me/binnyat_off)
 
