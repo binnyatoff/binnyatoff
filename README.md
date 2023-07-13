@@ -15,7 +15,11 @@ I am an android developer :iphone:
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-
+### :hammer_and_wrench: Main projects:
+**WeatherApp**
+<a href="https://github.com/binnyatoff/WeatherApp" target="_blank">link</a> 
+**GitHubClient**
+<a href="https://github.com/binnyatoff/GitHubClient" target="_blank">link</a> 
 
 
 <div align="center" id="badges">
