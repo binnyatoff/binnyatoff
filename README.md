@@ -7,6 +7,13 @@ I am an android developer :iphone:
 - :nerd_face:  Studied programming at the university
 - :mailbox:  How to reach me: [![Telegram Badge](https://img.shields.io/badge/-telegram-red?style=flat&color=white&logo=telegram&logoColor=black)](https://t.me/binnyat_off)
 
+
+### :hammer: Main projects:
+  
+- **WeatherApp** <a href="https://github.com/binnyatoff/WeatherApp" target="_blank">link</a>
+  
+- **GitHubClient** <a href="https://github.com/binnyatoff/GitHubClient" target="_blank">link</a>
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -14,14 +21,6 @@ I am an android developer :iphone:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-### :hammer_and_wrench: Main projects:
-**WeatherApp**
-<a href="https://github.com/binnyatoff/WeatherApp" target="_blank">link</a> 
-
-**GitHubClient**
-<a href="https://github.com/binnyatoff/GitHubClient" target="_blank">link</a> 
-
 
 <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/binnyatoff/L">
@@ -31,18 +30,3 @@ I am an android developer :iphone:
     <img src="https://img.shields.io/badge/-telegram-red?style=for-the-badge&color=white&logo=telegram&logoColor=black" alt="Telegram Badge"/>
   </a>
 </div>
-
-<!--
-**binnyatoff/binnyatoff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
